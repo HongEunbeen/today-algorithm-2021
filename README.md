@@ -1,1 +1,7 @@
-# Today_Algorithm
+## Today_Algorithm
+
+**Today Algorithm**은 하루에 한 개 이상의 알고리즘 문제를 풀고 정리합니다.
+
+| 날짜 | algorithm | 문제 링크 | 풀이 링크 |
+| :--- |   :---:   | --------:|  --------:|
+| 07/01 |  |   |   |
