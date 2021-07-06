@@ -8,3 +8,4 @@
 | 07/02 | [벌집](https://www.acmicpc.net/problem/2292)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0702)  |
 | 07/04 | [ACM 호텔](https://www.acmicpc.net/problem/10250)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0704)  |
 | 07/05 | [단지번호붙이기](https://www.acmicpc.net/problem/2667)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0705)  |
+| 07/06 | [탈출](https://www.acmicpc.net/problem/3055)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0706)  |
