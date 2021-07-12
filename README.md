@@ -14,3 +14,4 @@
 | 07/07 | [유기농 배추](https://www.acmicpc.net/problem/1012)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0707)  |
 | 07/08 | [평범한 배낭](https://www.acmicpc.net/problem/12865)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0708)  |
 | 07/11 | [가운데를 말해요](https://www.acmicpc.net/problem/1655)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0711)  |
+| 07/12 | [체스판 다시 칠하기]https://www.acmicpc.net/problem/1018)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0712)  |
