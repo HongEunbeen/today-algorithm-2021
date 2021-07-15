@@ -15,3 +15,5 @@
 | 07/08 | [평범한 배낭](https://www.acmicpc.net/problem/12865)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0708)  |
 | 07/11 | [가운데를 말해요](https://www.acmicpc.net/problem/1655)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0711)  |
 | 07/12 | [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0712)  |
+| 07/15 | [퇴사](https://www.acmicpc.net/problem/14501)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0715)  |
+
