@@ -17,4 +17,5 @@
 | 07/12 | [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0712)  |
 | 07/14 | [퇴사](https://www.acmicpc.net/problem/14501)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0714)  |
 | 07/15 | [RGB거리](https://www.acmicpc.net/problem/1149)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0715)  |
-
+| 07/16 | [영화감독 숌](https://www.acmicpc.net/problem/1436)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0716)  |
+https://www.acmicpc.net/problem/4949
