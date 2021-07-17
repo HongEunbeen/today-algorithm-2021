@@ -19,3 +19,5 @@
 | 07/15 | [RGB거리](https://www.acmicpc.net/problem/1149)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0715)  |
 | 07/16 | [영화감독 숌](https://www.acmicpc.net/problem/1436)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0716/영화감독숌)  |
 || [단어 정렬](https://www.acmicpc.net/problem/1181)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0716/단어정렬)  |
+| 07/17 | [블랙잭](https://www.acmicpc.net/problem/2798)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0717/블랙잭)  |
+|| [균형잡힌 세상](https://www.acmicpc.net/problem/4949)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0717/균형잡힌세상)  |
