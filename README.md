@@ -22,3 +22,4 @@
 | 07/17 | [블랙잭](https://www.acmicpc.net/problem/2798)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0717/블랙잭)  |
 || [균형잡힌 세상](https://www.acmicpc.net/problem/4949)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0717/균형잡힌세상)  |
 || [나이순 정렬](https://www.acmicpc.net/problem/10814)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0717/나이순정렬)  |
+|| [나이순 정렬](https://www.acmicpc.net/problem/10814)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0717/나이순정렬)  |
