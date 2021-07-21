@@ -25,3 +25,5 @@
 | 07/18 | [소수 구하기](https://www.acmicpc.net/problem/1929)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0718)  |
 | 07/19 | [일곱 난쟁이](https://www.acmicpc.net/problem/2309)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0719)  |
 | 07/20 | [수 찾기](https://www.acmicpc.net/problem/1920)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0720)  |
+| 07/21 | [다리 놓기](https://www.acmicpc.net/problem/1010)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0721)  |
+
