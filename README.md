@@ -29,3 +29,6 @@
 | 07/22 | [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0722/최대공약수와최소공배수)  |
 || [숫자 카드 2](https://www.acmicpc.net/problem/10816)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0722/숫자카드)  |
 | 07/23 | [계단 오르기](https://www.acmicpc.net/problem/2579)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0723)  |
+| 07/24 | [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0724/123더하기)  |
+|| [2xn 타일링](https://www.acmicpc.net/problem/11726)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0724/2xn타일링)  |
+|| [포도주 시식](https://www.acmicpc.net/problem/2156)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0724/포도주시식)  |
