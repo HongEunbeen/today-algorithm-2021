@@ -26,5 +26,6 @@
 | 07/19 | [일곱 난쟁이](https://www.acmicpc.net/problem/2309)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0719)  |
 | 07/20 | [수 찾기](https://www.acmicpc.net/problem/1920)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0720)  |
 | 07/21 | [다리 놓기](https://www.acmicpc.net/problem/1010)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0721)  |
-| 07/22 | [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0722/최대공약수와최소공배스)  |
+| 07/22 | [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0722/최대공약수와최소공배수)  |
 || [숫자 카드 2](https://www.acmicpc.net/problem/10816)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0722/숫자카드)  |
+| 07/23 | [계단 오르기](https://www.acmicpc.net/problem/2579)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0723)  |
