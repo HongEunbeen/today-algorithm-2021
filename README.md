@@ -32,3 +32,4 @@
 | 07/24 | [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0724/123더하기)  |
 || [2xn 타일링](https://www.acmicpc.net/problem/11726)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0724/2xn타일링)  |
 || [포도주 시식](https://www.acmicpc.net/problem/2156)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0724/포도주시식)  |
+| 07/26 | [스티커](https://www.acmicpc.net/problem/9465)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0726)  |
