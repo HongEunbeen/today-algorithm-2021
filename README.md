@@ -33,3 +33,4 @@
 || [2xn 타일링](https://www.acmicpc.net/problem/11726)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0724/2xn타일링)  |
 || [포도주 시식](https://www.acmicpc.net/problem/2156)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0724/포도주시식)  |
 | 07/26 | [스티커](https://www.acmicpc.net/problem/9465)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0726)  |
+| 07/27 | [동전 1](https://www.acmicpc.net/problem/2293)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0727)  |
