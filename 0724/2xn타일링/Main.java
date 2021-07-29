@@ -11,12 +11,12 @@ class Main{
             
             int dp[] = new int[n+1];
             dp[1] = 1;
-            dp[2] = 2;
-            for(int i=3; i<=n; i++){
-                dp[i] = (dp[i - 1] + dp[i - 2])%10_007;
+            for(int i=2; i<=n; i++){
+                if(i == 2) dp[2] = 2;
+                else dp[i] = (dp[i - 1] + dp[i - 2])%10007;
             }
 
-            System.out.println(dp[n]);
+            System.out.println(dp[n] + "");
             
         }catch(Exception e){
             System.out.println(e);
