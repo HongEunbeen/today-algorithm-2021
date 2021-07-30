@@ -35,3 +35,5 @@
 | 07/26 | [스티커](https://www.acmicpc.net/problem/9465)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0726)  |
 | 07/27 | [동전 1](https://www.acmicpc.net/problem/2293)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0727)  |
 | 07/29 | [빅뱅의 여섯 번째 멤버](https://www.acmicpc.net/problem/1229)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0729)  |
+| 07/30 | [01타일](https://www.acmicpc.net/problem/1904)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0730/01타일)  |
+| 07/30 | [파도반 수열](https://www.acmicpc.net/problem/9461)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0730/파도반수열)  |
