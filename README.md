@@ -36,5 +36,7 @@
 | 07/27 | [동전 1](https://www.acmicpc.net/problem/2293)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0727)  |
 | 07/29 | [빅뱅의 여섯 번째 멤버](https://www.acmicpc.net/problem/1229)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0729)  |
 | 07/30 | [01타일](https://www.acmicpc.net/problem/1904)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0730/01타일)  |
-| 07/30 | [파도반 수열](https://www.acmicpc.net/problem/9461)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0730/파도반수열)  |
-| 07/30 | [동물원](https://www.acmicpc.net/problem/1309)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0730/동물원)  |
+|| [파도반 수열](https://www.acmicpc.net/problem/9461)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0730/파도반수열)  |
+|| [동물원](https://www.acmicpc.net/problem/1309)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0730/동물원)  |
+| 07/31 | [덩치](https://www.acmicpc.net/problem/7568)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0731/덩치)  |
+|| [분해합](https://www.acmicpc.net/problem/2231)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0731/분해합)  |
