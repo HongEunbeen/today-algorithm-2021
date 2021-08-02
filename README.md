@@ -2,12 +2,15 @@
 
 **Today Algorithm**은 하루에 한 개 이상의 알고리즘 문제를 풀고 정리합니다.
 
+### 🚩8월
+
 | 날짜 | 문제 이름 | 풀이 링크 |
 | :--- |   :---:   |  --------:|
 | 08/01 | [공유기 설치](https://www.acmicpc.net/problem/2110)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0801)  |
+| 08/02 | [파일 합치기](https://www.acmicpc.net/problem/11066)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0802/파일합치기)  |
+|| [바이러스](https://www.acmicpc.net/problem/11066)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0802/바이러스)  |
 
-
-### 7월
+### 🚩7월✌
 
 | 날짜 | 문제 이름 | 풀이 링크 |
 | :--- |   :---:   |  --------:|
