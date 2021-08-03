@@ -7,8 +7,8 @@
 | 날짜 | 문제 이름 | 풀이 링크 |
 | :--- |   :---:   |  --------:|
 | 08/01 | [공유기 설치](https://www.acmicpc.net/problem/2110)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0801)  |
-| 08/02 | [파일 합치기](https://www.acmicpc.net/problem/11066)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0802/파일합치기)  |
-|| [바이러스](https://www.acmicpc.net/problem/11066)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0802/바이러스)  |
+| 08/02 | [파일 합치기](https://www.acmicpc.net/problem/11066)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0802)  |
+| 08/03 | [바이러스](https://www.acmicpc.net/problem/2606)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0803)  |
 
 ### 🚩7월✌
 
