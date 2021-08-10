@@ -14,6 +14,7 @@
 || [우수 마을](https://www.acmicpc.net/problem/1949)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0807/우수마을)  |
 | 08/09 | [타일 채우기](https://www.acmicpc.net/problem/2133)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0809/타일채우기)  |
 || [카드 구매하기](https://www.acmicpc.net/problem/11052)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0809/카드구매하기)  |
+| 08/10 | [오큰수](https://www.acmicpc.net/problem/17298)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0810)  |
 
 ### 🚩7월✌
 
