@@ -17,7 +17,7 @@
 | 08/10 | [오큰수](https://www.acmicpc.net/problem/17298)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0810)  |
 | 08/11 | [부녀회장이 될테야](https://www.acmicpc.net/problem/2775)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0811/부녀회장이될테야)  |
 || [좌표 정렬하기 2](https://www.acmicpc.net/problem/11651)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0811/좌표정렬하기2)  |
-|| [숫자 카드](https://www.acmicpc.net/problem/10815)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0812)  |
+| 08/12 | [숫자 카드](https://www.acmicpc.net/problem/10815)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0812)  |
 
 ### 🚩7월✌
 
