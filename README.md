@@ -18,6 +18,10 @@
 | 08/11 | [부녀회장이 될테야](https://www.acmicpc.net/problem/2775)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0811/부녀회장이될테야)  |
 || [좌표 정렬하기 2](https://www.acmicpc.net/problem/11651)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0811/좌표정렬하기2)  |
 | 08/12 | [숫자 카드](https://www.acmicpc.net/problem/10815)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0812)  |
+| 08/15 | [소트인사이드](https://www.acmicpc.net/problem/1427)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0815/소트인사이드)  |
+|| [통계학](https://www.acmicpc.net/problem/2108)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0815/통계학)  |
+|| [수 정렬하기 2](https://www.acmicpc.net/problem/2751)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0815/수정렬하기2)  |
+|| [수 정렬하기 3](https://www.acmicpc.net/problem/2108)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0815/수정렬하기3)  |
 
 ### 🚩7월✌
 
