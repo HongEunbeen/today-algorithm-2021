@@ -21,7 +21,7 @@
 | 08/15 | [소트인사이드](https://www.acmicpc.net/problem/1427)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0815/소트인사이드)  |
 || [통계학](https://www.acmicpc.net/problem/2108)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0815/통계학)  |
 || [수 정렬하기 2](https://www.acmicpc.net/problem/2751)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0815/수정렬하기2)  |
-|| [수 정렬하기 3](https://www.acmicpc.net/problem/2108)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0815/수정렬하기3)  |
+| 08/17 | [수 정렬하기 3](https://www.acmicpc.net/problem/10989)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0817)  |
 
 ### 🚩7월✌
 
