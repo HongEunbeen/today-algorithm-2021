@@ -23,6 +23,8 @@
 || [수 정렬하기 2](https://www.acmicpc.net/problem/2751)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0815/수정렬하기2)  |
 | 08/17 | [수 정렬하기 3](https://www.acmicpc.net/problem/10989)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0817/수정렬하기3)  |
 || [요세푸스 문제 0](https://www.acmicpc.net/problem/11866)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0817/요세푸스문제0)  |
+| 08/24 | [정수 삼각형](https://www.acmicpc.net/problem/1932)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0824/정수삼각형)  |
+|| [연속합](https://www.acmicpc.net/problem/1912)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0824/연속합)  |
 
 ### 🚩7월✌
 
