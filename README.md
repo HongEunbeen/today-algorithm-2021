@@ -25,8 +25,8 @@
 || [요세푸스 문제 0](https://www.acmicpc.net/problem/11866)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0817/요세푸스문제0)  |
 | 08/24 | [정수 삼각형](https://www.acmicpc.net/problem/1932)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0824/정수삼각형)  |
 || [연속합](https://www.acmicpc.net/problem/1912)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0824/연속합)  |
-| 08/25 | [연속합](https://www.acmicpc.net/problem/1912)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0824/연속합)  |
-
+| 08/25 | [돌 가져가기](https://www.acmicpc.net/problem/22354)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0825)  |
+| 08/25 | [토마토](https://www.acmicpc.net/problem/7576)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0826)  |
 
 ### 🚩7월✌
 
