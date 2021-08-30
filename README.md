@@ -28,6 +28,7 @@
 | 08/25 | [돌 가져가기](https://www.acmicpc.net/problem/22354)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0825)  |
 | 08/26 | [토마토](https://www.acmicpc.net/problem/7576)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0826)  |
 | 08/28 | [A+B와 쿼리](https://www.acmicpc.net/problem/22873)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0828)  |
+| 08/30 | [LCS](https://www.acmicpc.net/problem/9251)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0830)  |
 
 ### 🚩7월✌
 
