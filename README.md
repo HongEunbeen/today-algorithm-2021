@@ -2,7 +2,14 @@
 
 **Today Algorithm**은 하루에 한 개 이상의 알고리즘 문제를 풀고 정리합니다.
 
-### 🚩8월
+### 🚩9월
+
+| 날짜 | 문제 이름 | 풀이 링크 |
+| :--- |   :---:   |  --------:|
+| 09/01 | [덱](https://www.acmicpc.net/problem/10866)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0801)  |
+
+
+### 🚩8월✌
 
 | 날짜 | 문제 이름 | 풀이 링크 |
 | :--- |   :---:   |  --------:|
@@ -29,6 +36,7 @@
 | 08/26 | [토마토](https://www.acmicpc.net/problem/7576)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0826)  |
 | 08/28 | [A+B와 쿼리](https://www.acmicpc.net/problem/22873)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0828)  |
 | 08/30 | [LCS](https://www.acmicpc.net/problem/9251)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0830)  |
+| 08/31 | [이항계수](https://www.acmicpc.net/problem/11050)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0831)  |
 
 ### 🚩7월✌
 
