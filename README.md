@@ -2,11 +2,19 @@
 
 **Today Algorithm**은 하루에 한 개 이상의 알고리즘 문제를 풀고 정리합니다.
 
+### 알고리즘 개념 정리
+
+| 분류 | 알고리즘 | 정리 |
+| :--- |   :---:   |  --------:|
+| 정렬 |   퀵정렬   |  --------:|
+
+
 ### 🚩9월
 
 | 날짜 | 문제 이름 | 풀이 링크 |
 | :--- |   :---:   |  --------:|
-| 09/01 | [덱](https://www.acmicpc.net/problem/10866)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0801)  |
+| 09/01 | [덱](https://www.acmicpc.net/problem/10866)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0901)  |
+| 09/01 | [호텔](https://www.acmicpc.net/problem/1106)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0902)  |
 
 
 ### 🚩8월✌
