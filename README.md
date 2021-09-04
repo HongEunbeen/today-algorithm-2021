@@ -14,7 +14,8 @@
 | 날짜 | 문제 이름 | 풀이 링크 |
 | :--- |   :---:   |  --------:|
 | 09/01 | [덱](https://www.acmicpc.net/problem/10866)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0901)  |
-| 09/01 | [호텔](https://www.acmicpc.net/problem/1106)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0902)  |
+| 09/02 | [호텔](https://www.acmicpc.net/problem/1106)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0902)  |
+| 09/04 | [탈옥](https://www.acmicpc.net/problem/9376)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0904)  |
 
 
 ### 🚩8월✌
