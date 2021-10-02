@@ -12,7 +12,7 @@
 
 | 날짜 | 문제 이름 | 풀이 링크 |
 | :--- |   :---:   |  --------:|
-| 10/2 | [덱](https://www.acmicpc.net/problem/10866)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/09/0901)  |
+| 10/2 | [프린터 큐](https://www.acmicpc.net/problem/1966)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/10/1002)  |
 
 ### 🚩9월✌
 
