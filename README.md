@@ -12,7 +12,8 @@
 
 | 날짜 | 문제 이름 | 풀이 링크 |
 | :--- |   :---:   |  --------:|
-| 10/2 | [프린터 큐](https://www.acmicpc.net/problem/1966)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/10/1002)  |
+| 10/02 | [프린터 큐](https://www.acmicpc.net/problem/1966)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/10/1002)  |
+| 10/03 | [잃어버린 괄호](https://www.acmicpc.net/problem/1541)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/10/1003)  |
 
 ### 🚩9월✌
 
