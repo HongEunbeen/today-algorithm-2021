@@ -13,7 +13,9 @@
 | 날짜 | 문제 이름 | 풀이 링크 |
 | :--- |   :---:   |  --------:|
 | 10/02 | [프린터 큐](https://www.acmicpc.net/problem/1966)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/10/1002)  |
-| 10/03 | [잃어버린 괄호](https://www.acmicpc.net/problem/1541)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/10/1003)  |
+| 10/03 | [동전 0](https://www.acmicpc.net/problem/11047)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/10/1003/동전0)  |
+| 10/03 | [ATM](https://www.acmicpc.net/problem/11399)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/10/1003/ATM)  |
+| 10/03 | [잃어버린 괄호](https://www.acmicpc.net/problem/1541)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/10/1003/잃어버린괄호)  |
 
 ### 🚩9월✌
 
