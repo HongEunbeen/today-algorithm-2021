@@ -16,6 +16,7 @@
 | 10/03 | [동전 0](https://www.acmicpc.net/problem/11047)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/10/1003/동전0)  |
 | 10/03 | [ATM](https://www.acmicpc.net/problem/11399)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/10/1003/ATM)  |
 | 10/03 | [잃어버린 괄호](https://www.acmicpc.net/problem/1541)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/10/1003/잃어버린괄호)  |
+| 10/05 | [나무 자르기](https://www.acmicpc.net/problem/2805)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/10/1005)  |
 
 ### 🚩9월✌
 
