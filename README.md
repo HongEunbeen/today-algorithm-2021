@@ -18,6 +18,7 @@
 || [잃어버린 괄호](https://www.acmicpc.net/problem/1541)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/10/1003/잃어버린괄호)  |
 | 10/05 | [나무 자르기](https://www.acmicpc.net/problem/2805)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/10/1005/나무자르기)  |
 || [행렬 곱셈](https://www.acmicpc.net/problem/2740)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/10/1005/행렬곱샘)  |
+| 10/09 | [미로 탐색](https://www.acmicpc.net/problem/2178)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/10/1008)  |
 
 
 ### 🚩9월✌
@@ -84,8 +85,8 @@
 | 07/19 | [일곱 난쟁이](https://www.acmicpc.net/problem/2309)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/07/0719)  |
 | 07/20 | [수 찾기](https://www.acmicpc.net/problem/1920)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/07/0720)  |
 | 07/21 | [다리 놓기](https://www.acmicpc.net/problem/1010)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/07/0721)  |
-| 07/22 | [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0722/07/최대공약수와최소공배수)  |
-|| [숫자 카드 2](https://www.acmicpc.net/problem/10816)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/0722/07/숫자카드)  |
+| 07/22 | [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/07/0722/최대공약수와최소공배수)  |
+|| [숫자 카드 2](https://www.acmicpc.net/problem/10816)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/07/0722/숫자카드)  |
 | 07/23 | [계단 오르기](https://www.acmicpc.net/problem/2579)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/07/0723)  |
 | 07/24 | [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/07/0724/123더하기)  |
 || [2xn 타일링](https://www.acmicpc.net/problem/11726)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/07/0724/2xn타일링)  |
