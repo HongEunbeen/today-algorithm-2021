@@ -22,6 +22,7 @@
 || [2xN 타일링 2](https://www.acmicpc.net/problem/11727)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/10/1008/2xn타일링2)  |
 | 10/11 | [좌표 압축](https://www.acmicpc.net/problem/18870)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/10/1011)  |
 | 10/12 | [회전하는 큐](https://www.acmicpc.net/problem/1021)  |   [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/10/1012)  |
+| 10/13 | [오르막 수](https://www.acmicpc.net/problem/11057)  |   [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/10/1013)  |
 
 
 ### 🚩9월✌
