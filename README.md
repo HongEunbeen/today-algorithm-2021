@@ -23,6 +23,8 @@
 | 10/11 | [좌표 압축](https://www.acmicpc.net/problem/18870)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/10/1011)  |
 | 10/12 | [회전하는 큐](https://www.acmicpc.net/problem/1021)  |   [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/10/1012)  |
 | 10/13 | [오르막 수](https://www.acmicpc.net/problem/11057)  |   [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/10/1013)  |
+| 10/16 | [Hashing](https://www.acmicpc.net/problem/15829)  |   [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/10/1016/Hashing)  |
+|| [마인크래프트](https://www.acmicpc.net/problem/18111)  |   [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/10/1016/마인크래프트)  |
 
 
 ### 🚩9월✌
