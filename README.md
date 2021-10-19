@@ -25,6 +25,7 @@
 | 10/13 | [오르막 수](https://www.acmicpc.net/problem/11057)  |   [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/10/1013)  |
 | 10/16 | [Hashing](https://www.acmicpc.net/problem/15829)  |   [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/10/1016/Hashing)  |
 || [마인크래프트](https://www.acmicpc.net/problem/18111)  |   [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/10/1016/마인크래프트)  |
+| 10/19 | [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)  |   [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/10/1019)  |
 
 
 ### 🚩9월✌
