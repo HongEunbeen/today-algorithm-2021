@@ -29,6 +29,8 @@
 | 10/21 | [Binary Search](https://leetcode.com/problems/binary-search)  |   [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/10/1021/binary-search)  |
 || [Search Insert Position](https://leetcode.com/problems/search-insert-position/)  |   [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/10/1021/search-insert-position)  |
 || [First Bad Version](https://leetcode.com/problems/first-bad-version/)  |   [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/10/1021/first-bad-version)  |
+| 10/22 | [Rotate Array](https://leetcode.com/problems/rotate-array/)  |   [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/10/1022/rotate-array)  |
+|| [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)  |   [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/10/1022/squares-of-a-sorted-array)  |
 
 
 ### 🚩9월✌
