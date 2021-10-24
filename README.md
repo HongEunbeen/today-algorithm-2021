@@ -31,6 +31,10 @@
 || [First Bad Version](https://leetcode.com/problems/first-bad-version/)  |   [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/10/1021/first-bad-version)  |
 | 10/22 | [Rotate Array](https://leetcode.com/problems/rotate-array/)  |   [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/10/1022/rotate-array)  |
 || [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)  |   [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/10/1022/squares-of-a-sorted-array)  |
+| 10/23 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)  |   [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/10/1023/two-sum-ii-input-array-is-sorted)  |
+|| [Move Zeroes](https://leetcode.com/problems/move-zeroes/)  |   [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/10/1023/move-zeroes)  |
+| 10/24 | [Reverse String](https://leetcode.com/problems/reverse-string/)  |   [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/10/1024/reverse-string)  |
+|| [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)  |   [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/10/1024/reverse-words-in-a-string-iii)  |
 
 
 ### 🚩9월✌
