@@ -35,6 +35,10 @@
 || [Move Zeroes](https://leetcode.com/problems/move-zeroes/)  |   [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/10/1023/move-zeroes)  |
 | 10/24 | [Reverse String](https://leetcode.com/problems/reverse-string/)  |   [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/10/1024/reverse-string)  |
 || [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)  |   [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/10/1024/reverse-words-in-a-string-iii)  |
+| 10/26 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)  |   [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/10/1026/middle-of-the-linked-list)  |
+|| [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)  |   [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/10/1026/remove-nth-node-from-end-of-listi)  |
+
+
 
 
 ### 🚩9월✌
