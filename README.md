@@ -37,8 +37,10 @@
 || [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)  |   [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/10/1024/reverse-words-in-a-string-iii)  |
 | 10/26 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)  |   [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/10/1026/middle-of-the-linked-list)  |
 || [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)  |   [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/10/1026/remove-nth-node-from-end-of-listi)  |
-
-
+| 10/27 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)  |   [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/10/1027/longest-substring-without-repeating-characters)  |
+|| [Permutation in String](https://leetcode.com/problems/permutation-in-string/)  |   [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/10/1027/permutation-in-string)  |
+| 10/28 | [Flood Fill](https://leetcode.com/problems/flood-fill/)  |   [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/10/1028/flood-fill)  |
+|| [Max Area of Island](https://leetcode.com/problems/max-area-of-island/)  |   [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/10/1028/max-area-of-island)  |
 
 
 ### 🚩9월✌
@@ -48,7 +50,7 @@
 | 09/01 | [덱](https://www.acmicpc.net/problem/10866)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/09/0901)  |
 | 09/02 | [호텔](https://www.acmicpc.net/problem/1106)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/09/0902)  |
 | 09/04 | [탈옥](https://www.acmicpc.net/problem/9376)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/09/0904)  |
-| 09/28 | [쿠키크루](https://www.acmicpc.net/problem/22939)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/09/0928)  |
+| 09/28 | [전깃줄](https://www.acmicpc.net/problem/2565)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/09/0928)  |
 
 ### 🚩8월✌
 
