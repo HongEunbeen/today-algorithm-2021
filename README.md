@@ -16,16 +16,12 @@
 | 10/03 | [동전 0](https://www.acmicpc.net/problem/11047)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/10/1003/동전0)  |
 || [ATM](https://www.acmicpc.net/problem/11399)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/10/1003/ATM)  |
 || [잃어버린 괄호](https://www.acmicpc.net/problem/1541)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/10/1003/잃어버린괄호)  |
-| 10/05 | [나무 자르기](https://www.acmicpc.net/problem/2805)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/10/1005/나무자르기)  |
 || [행렬 곱셈](https://www.acmicpc.net/problem/2740)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/10/1005/행렬곱샘)  |
 | 10/09 | [미로 탐색](https://www.acmicpc.net/problem/2178)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/10/1008/미로탐색)  |
 || [2xN 타일링 2](https://www.acmicpc.net/problem/11727)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/10/1008/2xn타일링2)  |
 | 10/11 | [좌표 압축](https://www.acmicpc.net/problem/18870)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/10/1011)  |
 | 10/12 | [회전하는 큐](https://www.acmicpc.net/problem/1021)  |   [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/10/1012)  |
 | 10/13 | [오르막 수](https://www.acmicpc.net/problem/11057)  |   [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/10/1013)  |
-| 10/16 | [Hashing](https://www.acmicpc.net/problem/15829)  |   [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/10/1016/Hashing)  |
-|| [마인크래프트](https://www.acmicpc.net/problem/18111)  |   [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/10/1016/마인크래프트)  |
-| 10/19 | [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)  |   [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/10/1019)  |
 | 10/21 | [Binary Search](https://leetcode.com/problems/binary-search)  |   [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/10/1021/binary-search)  |
 || [Search Insert Position](https://leetcode.com/problems/search-insert-position/)  |   [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/10/1021/search-insert-position)  |
 || [First Bad Version](https://leetcode.com/problems/first-bad-version/)  |   [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/10/1021/first-bad-version)  |
@@ -50,7 +46,6 @@
 | 09/01 | [덱](https://www.acmicpc.net/problem/10866)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/09/0901)  |
 | 09/02 | [호텔](https://www.acmicpc.net/problem/1106)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/09/0902)  |
 | 09/04 | [탈옥](https://www.acmicpc.net/problem/9376)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/09/0904)  |
-| 09/28 | [전깃줄](https://www.acmicpc.net/problem/2565)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/09/0928)  |
 
 ### 🚩8월✌
 
