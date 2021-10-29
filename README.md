@@ -37,6 +37,8 @@
 || [Permutation in String](https://leetcode.com/problems/permutation-in-string/)  |   [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/10/1027/permutation-in-string)  |
 | 10/28 | [Flood Fill](https://leetcode.com/problems/flood-fill/)  |   [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/10/1028/flood-fill)  |
 || [Max Area of Island](https://leetcode.com/problems/max-area-of-island/)  |   [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/10/1028/max-area-of-island)  |
+| 10/29 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)  |   [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/10/1029/merge-two-binary-trees)  |
+|| [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)  |   [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/10/1029/populating-next-right-pointers-in-each-node)  |
 
 
 ### 🚩9월✌
