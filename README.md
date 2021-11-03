@@ -16,6 +16,9 @@
 || [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/11/1101/reverse-linked-list)  |
 | 11/02 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/11/1102/add-two-numbers)  |
 || [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/11/1102/climbing-stairs)  |
+| 11/03 | [Power of Two](https://leetcode.com/problems/power-of-two/)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/11/1103/power-of-two)  |
+|| [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/11/1103/number-of-1-bits)  |
+
 
 ### 🚩10월✌
 
