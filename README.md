@@ -19,8 +19,18 @@
 | 11/03 | [Power of Two](https://leetcode.com/problems/power-of-two/)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/11/1103/power-of-two)  |
 || [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/11/1103/number-of-1-bits)  |
 | 11/04 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/11/1104/sum-of-left-leaves)  |
-
-
+| 11/05 | [Plus Minus](https://www.hackerrank.com/challenges/one-month-preparation-kit-plus-minus/problem)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/11/1105/plus-minus)  |
+|| [Mini-Max Sum](https://www.hackerrank.com/challenges/one-month-preparation-kit-mini-max-sum/problem)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/11/1105/mini-max-sum)  |
+|| [Time Conversion](https://www.hackerrank.com/challenges/one-month-preparation-kit-time-conversion/problem)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/11/1105/time-conversion)  |
+|| [Sparse Arrays](https://www.hackerrank.com/challenges/one-month-preparation-kit-sparse-arrays/problem)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/11/1105/sparse-arrays)  |
+|| [Lonely Integer](https://www.hackerrank.com/challenges/one-month-preparation-kit-lonely-integer/problem)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/11/1105/lonely-integer)  |
+|| [Flipping bits](https://www.hackerrank.com/challenges/one-month-preparation-kit-flipping-bits/problem)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/11/1105/flipping-bits)  |
+|| [Diagonal Difference](https://www.hackerrank.com/challenges/one-month-preparation-kit-diagonal-difference/problem)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/11/1105/diagonal-difference)  |
+|| [Counting Sort 1](https://www.hackerrank.com/challenges/one-month-preparation-kit-countingsort1/problem)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/11/1105/countingsort1)  |
+|| [Pangrams](https://www.hackerrank.com/challenges/one-month-preparation-kit-pangrams/problem)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/11/1105/pangrams)  |
+|| [Permuting Two Arrays](https://www.hackerrank.com/challenges/one-month-preparation-kit-two-arrays/problem)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/11/1105/two-arrays)  |
+|| [Subarray Division 1](https://www.hackerrank.com/challenges/one-month-preparation-kit-the-birthday-bar/problem)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/11/1105/the-birthday-bar)  |
+|| [XOR Strings 2](https://www.hackerrank.com/challenges/one-month-preparation-kit-strings-xor/problem)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/11/1105/strings-xor)  |
 
 ### 🚩10월✌
 
