@@ -31,7 +31,7 @@
 || [Subarray Division 1](https://www.hackerrank.com/challenges/one-month-preparation-kit-the-birthday-bar/problem)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/11/1105/the-birthday-bar)  |
 || [XOR Strings 2](https://www.hackerrank.com/challenges/one-month-preparation-kit-strings-xor/problem)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/11/1105/strings-xor)  |
 | 11/06 | [Permuting Two Arrays](https://www.hackerrank.com/challenges/one-month-preparation-kit-two-arrays/problem)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/11/1106/two-arrays)  |
-| 11/08 | [Permuting Two Arrays](https://leetcode.com/problems/palindrome-number/)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/11/1108/palindrome-number)  |
+| 11/08 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/11/1108/palindrome-number)  |
 
 ### 🚩10월✌
 
