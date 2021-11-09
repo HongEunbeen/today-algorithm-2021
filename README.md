@@ -1,4 +1,4 @@
-# 🌞 Today_Algorithm 🌝
+# 🌞 TODAY ALGORITHM 🌝
 
 **Today Algorithm**은 하루에 한 개 이상의 알고리즘 풀이를 목표로 합니다.
 
