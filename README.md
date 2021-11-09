@@ -1,6 +1,6 @@
-## Today_Algorithm
+# 🌞 Today_Algorithm 🌝
 
-**Today Algorithm**은 하루에 한 개 이상의 알고리즘 문제를 풀고 정리합니다.
+**Today Algorithm**은 하루에 한 개 이상의 알고리즘 풀이를 목표로 합니다.
 
 ### 알고리즘 개념 정리
 
