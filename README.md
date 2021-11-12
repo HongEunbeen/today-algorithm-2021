@@ -29,10 +29,10 @@
 | 11/06 | [Permuting Two Arrays](https://www.hackerrank.com/challenges/one-month-preparation-kit-two-arrays/problem)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/11/1106/two-arrays)  |
 | 11/08 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/11/1108/palindrome-number)  |
 || [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/11/1108/surrounded-regions)  |
-| 11/10 | [Counting Sort 1](https://www.hackerrank.com/challenges/one-month-preparation-kit-countingsort1/problem)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/11/1105/countingsort1)  |
-|| [Pangrams](https://www.hackerrank.com/challenges/one-month-preparation-kit-pangrams/problem)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/11/1105/pangrams)  |
-|| [Subarray Division 1](https://www.hackerrank.com/challenges/one-month-preparation-kit-the-birthday-bar/problem)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/11/1105/the-birthday-bar)  |
-|| [XOR Strings 2](https://www.hackerrank.com/challenges/one-month-preparation-kit-strings-xor/problem)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/11/1105/strings-xor)  |
+| 11/10 | [Counting Sort 1](https://www.hackerrank.com/challenges/one-month-preparation-kit-countingsort1/problem)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/11/1110/countingsort1)  |
+|| [Pangrams](https://www.hackerrank.com/challenges/one-month-preparation-kit-pangrams/problem)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/11/1110/pangrams)  |
+|| [Subarray Division 1](https://www.hackerrank.com/challenges/one-month-preparation-kit-the-birthday-bar/problem)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/11/1110/the-birthday-bar)  |
+|| [XOR Strings 2](https://www.hackerrank.com/challenges/one-month-preparation-kit-strings-xor/problem)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/11/1110/strings-xor)  |
 
 ### 🚩10월✌
 
