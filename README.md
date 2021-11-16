@@ -33,6 +33,12 @@
 || [Pangrams](https://www.hackerrank.com/challenges/one-month-preparation-kit-pangrams/problem)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/11/1110/pangrams)  |
 || [Subarray Division 1](https://www.hackerrank.com/challenges/one-month-preparation-kit-the-birthday-bar/problem)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/11/1110/the-birthday-bar)  |
 || [XOR Strings 2](https://www.hackerrank.com/challenges/one-month-preparation-kit-strings-xor/problem)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/11/1110/strings-xor)  |
+| 11/16 | [Sales by Match](https://www.hackerrank.com/challenges/one-month-preparation-kit-sock-merchant/problem)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/11/1116/sock-merchant)  |
+|| [Zig Zag Sequence](https://www.hackerrank.com/challenges/one-month-preparation-kit-zig-zag-sequence/problem)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/11/1116/zig-zag-sequence)  |
+|| [Drawing Book](https://www.hackerrank.com/challenges/one-month-preparation-kit-drawing-book/problem)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/11/1116/drawing-book)  |
+|| [Tower Breakers](https://www.hackerrank.com/challenges/one-month-preparation-kit-tower-breakers-1/problem)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/11/1116/tower-breakers-1)  |
+
+
 
 ### 🚩10월✌
 
