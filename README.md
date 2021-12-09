@@ -8,7 +8,13 @@
 | :--- |   :---:   |  --------:|
 | 탐색 |   이진 탐색  | [문서보기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/docs/이진탐색) |
 
-### 🚩11월
+### 🚩12월
+
+| 날짜 | 문제 이름 | 풀이 링크 |
+| :--- |   :---:   |  --------:|
+| 12/09 | [Max Min](https://www.hackerrank.com/challenges/one-month-preparation-kit-angry-children//problem)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/12/1209/angry-children)  |
+
+### 🚩11월✌
 
 | 날짜 | 문제 이름 | 풀이 링크 |
 | :--- |   :---:   |  --------:|
