@@ -2,12 +2,6 @@
 
 **Today Algorithm**은 하루에 한 개 이상의 알고리즘 풀이를 목표로 합니다.
 
-### 알고리즘 개념 정리
-
-| 분류 | 알고리즘 | 정리 |
-| :--- |   :---:   |  --------:|
-| 탐색 |   이진 탐색  | [문서보기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/docs/이진탐색) |
-
 ### 🚩12월
 
 | 날짜 | 문제 이름 | 풀이 링크 |
