@@ -2,12 +2,6 @@
 
 **Today Algorithm**은 하루에 한 개 이상의 알고리즘 풀이를 목표로 합니다.
 
-### 🚩12월
-
-| 날짜 | 문제 이름 | 풀이 링크 |
-| :--- |   :---:   |  --------:|
-| 12/09 | [Max Min](https://www.hackerrank.com/challenges/one-month-preparation-kit-angry-children//problem)  |  [바로가기](https://github.com/HongEunbeen/Today_Algorithm/tree/main/12/1209/angry-children)  |
-
 ### 🚩11월✌
 
 | 날짜 | 문제 이름 | 풀이 링크 |
